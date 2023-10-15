@@ -55,7 +55,6 @@ The Reddit app has been created. Now, we can use python and praw to scrape data 
 ## Contact
 
 For any inquiries or support, please contact [info@poojanpradhan.com.np](info@poojanpradhan.com.np)
-Feel Free to message me at upwork, Thank you for hiring me!!
 
 ## License
 
